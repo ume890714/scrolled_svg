@@ -1,0 +1,15 @@
+body,html{
+    padding: 0px;
+    margin: 0px;
+  }
+  
+  
+  #svgobj{
+    transition:all ease-in 1s;
+  /*   transform: translate(25%,-60%) scale(1.5); */
+  }
+  
+  .path{
+    stroke: rgba(0,0,0,0);
+    fill: none;
+  }
